@@ -1,0 +1,15 @@
+details > summary {
+  padding: 30px;
+  width: 250px;
+  background-color: brown;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+}
+
+details > p {
+  background-color: brown;
+  padding: 30px;
+  margin: 0;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
